@@ -1,3 +1,4 @@
+define(function(){
 /*!
  * jQuery JavaScript Library v1.11.2
  * http://jquery.com/
@@ -10344,3 +10345,8 @@ if ( typeof noGlobal === strundefined ) {
 return jQuery;
 
 }));
+
+
+
+	return $.noConflict();
+});

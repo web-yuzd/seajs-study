@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Seajs Study"
+date:   2014-12-17 15:22:00
+category: frontend
+---
+
+sea.js 初尝试
